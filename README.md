@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @appman36
 - 🌱 I’m currently learning HTML, CSS, JavaScript, React
 - 💞️ I'm looking for a new job
-- 👀 I’m interested in photography and in digital design
+- 👀 I’m interested in photography and digital design
 - 📫 You can write me in Telegram: @pahondrij
 - ⚡ Fun fact: I have a cute pug Dexter 
 
